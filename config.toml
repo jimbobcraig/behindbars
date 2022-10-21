@@ -1,0 +1,6 @@
+baseURL = "https://jimbobcraig.github.io/behindbars/."
+languageCode = "en-gb"
+title = "behindbars"
+theme = "m10c"
+author = "jamesCRAIG"
+description = "happiest behind bars"
